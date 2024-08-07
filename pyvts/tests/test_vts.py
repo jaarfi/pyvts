@@ -1,4 +1,5 @@
 """ unit test for vts.py """
+
 import pytest
 import pyvts
 from .test_utils import FakeVtubeStudioAPIServer

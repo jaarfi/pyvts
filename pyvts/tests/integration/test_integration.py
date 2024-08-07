@@ -1,4 +1,5 @@
 """ integration test """
+
 import pytest
 import pyvts
 from ..test_utils import FakeVtubeStudioAPIServer

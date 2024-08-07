@@ -1,5 +1,6 @@
 """ Generate vts request """
-from pyvts import config
+
+import config
 
 API_NAME = config.vts_api["name"]
 API_VERSION = config.vts_api["version"]

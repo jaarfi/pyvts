@@ -9,3 +9,6 @@ __all__ = ["vts", "vts_request", "config", "error"]
 
 from .vts import vts
 from .vts_request import VTSRequest  # noqa: F401
+from .requests_vts import *
+from .error import *
+from .config import *

@@ -1,4 +1,5 @@
 """ test vts/vts_request.py """
+
 import pytest
 from pyvts import vts_request, config
 
